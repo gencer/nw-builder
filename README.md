@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/nw-builder.png?downloads=true)](https://nodei.co/npm/nw-builder/)
 
-> Build your [NW.js](https://github.com/nwjs/nw.js) apps for Mac, Win and Linux programmatically or via CLI.
+> Build your [NW.js](https://github.com/nwjs/nw.js) apps for Mac, Win (wine-4.0-rc7 (Staging), .NET 2.0 and corefonts) and Linux programmatically or via CLI.
 
 ### Installation
 
